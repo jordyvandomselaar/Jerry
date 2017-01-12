@@ -7,8 +7,8 @@
  */
 
 
-namespace Qlib;
-use Qlib\Query\Query;
+namespace Jerry;
+use Jerry\Query\Query;
 
 
 /**

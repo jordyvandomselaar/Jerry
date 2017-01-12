@@ -6,7 +6,7 @@
  * Time: 17:04
  */
 
-namespace Qlib\Query;
+namespace Jerry\Query;
 
 
 /**
