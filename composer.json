@@ -1,0 +1,8 @@
+{
+    "name": "jordyvandomselaar/jerry",
+    "description": "A query builder without deps",
+    "type": "library",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "require": {}
+}
